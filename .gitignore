@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# Visual Studio Code (if applicable)
+.vscode/
+
+# Temporary files
+*.cache
+*.log
+*.bak
+
+# Dependency folders (optional, test if needed)
+# dependencies/
